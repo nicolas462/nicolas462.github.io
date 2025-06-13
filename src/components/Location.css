@@ -1,0 +1,11 @@
+.location{
+    margin-top: 70px;
+    justify-content: center;
+    color: white;
+    flex-direction: row;
+}
+
+.location span {
+    margin-top: 10px;
+    margin-right: 8px;
+}

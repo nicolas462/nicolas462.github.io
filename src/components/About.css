@@ -1,0 +1,33 @@
+.lang-section {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+    position: absolute;
+    width: 100%;
+    pointer-events: none;
+}
+
+.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+    position: relative;
+}
+
+.hidden {
+    opacity: 0;
+    transform: translateY(10px);
+}
+
+.content {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 3px solid white;
+}
+
+.content p , .content h2, .content a{
+    margin: 10px;
+}

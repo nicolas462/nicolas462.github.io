@@ -1,0 +1,39 @@
+header {
+    background: url("../assets/austin-distel-mpN7xjKQ_Ns-unspla.jpg");
+    background-size: cover;
+    height: 350px;
+    text-shadow: 2px 2px gray;
+    justify-content: center;
+    border-bottom: 3px solid;
+    border-color: white;
+    margin-top: -25px;
+}
+
+header .flex-container {
+    justify-content: center;
+}
+
+header h1 {
+    padding-top: 40px;
+    font-family: "Lato", serif;
+}
+
+header h1, header p{
+    animation: 2s ease-out 0s 1 slideInFromLeft;
+}
+
+.profile-image-wrapper {
+    position: absolute;
+    /* bottom: 0px; */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+  
+.profile-image {
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    border: 3px solid white;
+    object-fit: cover;
+}

@@ -1,0 +1,20 @@
+.language {
+    justify-content: center;
+    flex-direction: row;
+}
+
+.language img {
+    width: 40px;
+    margin: 10px;
+}
+
+#england {opacity: 1;}
+#england:hover {
+    transform: scale(1.5);
+    cursor: pointer;
+}
+#spain {opacity: 0.3;}
+#spain:hover {
+    transform: scale(1.5);
+    cursor: pointer;
+}
