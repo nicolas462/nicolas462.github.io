@@ -22,13 +22,10 @@
     animation: fillBar 5s linear 0s infinite;
 }
 
-table {
-    width: 80%;
+.skills-table {
+    width: 100%;
 }
 
-@media only screen and (min-width: 768px) {
-    table {
-        width: 100%;
-    }
-    
+.first-col-skills{
+    width: 22%;
 }

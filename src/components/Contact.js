@@ -1,7 +1,7 @@
 import React from "react";
 import githubIcon from "../assets/github.png";
 import linkedinIcon from "../assets/linkedin.png";
-
+import EmailIcon from '@mui/icons-material/Email';
 import './Contact.css';
 
 const Contact = ({ language }) => (
@@ -13,7 +13,7 @@ const Contact = ({ language }) => (
       <h2>Contáctame</h2>
     </div>
     <div className="flex-container">
-      <span className="material-icons" id="email">email</span>
+      <EmailIcon id="email"/>
       <a href="mailto:nicolas462@hotmail.com">nicolas462@hotmail.com</a>
     </div>
     <div className="flex-container social">

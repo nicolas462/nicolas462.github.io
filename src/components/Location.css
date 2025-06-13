@@ -1,11 +1,13 @@
-.location{
-    margin-top: 70px;
+.icon{
     justify-content: center;
     color: white;
     flex-direction: row;
 }
 
-.location span {
-    margin-top: 10px;
-    margin-right: 8px;
+.icon p {
+    margin-left: 8px;
+}
+
+.education {
+    margin-top: 70px;
 }

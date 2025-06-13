@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => (
   <footer>
     <p>
-      Developed by:
+      Developed by:&nbsp;
       <strong>
         <a href="https://www.linkedin.com/in/nicolas-david-espejo-bernal">
           Nicolás Espejo

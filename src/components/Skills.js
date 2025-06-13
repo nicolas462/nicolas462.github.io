@@ -21,11 +21,11 @@ const Skills = ({ language }) => (
     <div className={`lang-section ${language === "es" ? "visible" : "hidden"}`}>
       <h2>Mis habilidades</h2>
     </div>
-    <table style={{ width: "100%" }}>
+    <table className="skills-table">
       <tbody>
         {skillsData.map(([skill, percent]) => (
           <tr key={skill}>
-            <td style={{ width: "22%" }}>
+            <td className="first-col-skills">
               <p>{skill}</p>
             </td>
             <td>
@@ -44,34 +44,6 @@ const Skills = ({ language }) => (
       </tbody>
     </table>
     <br />
-    <div className={`lang-section ${language === "en" ? "visible" : "hidden"}`}>
-      <p>
-        Learn about all my licenses and certifications on my&nbsp;
-        <strong>
-          <a
-            href="https://www.linkedin.com/in/nicolas-david-espejo-bernal/?locale=en_US"
-            target="_blank"
-            rel="noreferrer"
-          >
-            LinkedIn.
-          </a>
-        </strong>
-      </p>
-    </div>
-    <div className={`lang-section ${language === "es" ? "visible" : "hidden"}`}>
-      <p>
-        Conoce mis licencias y certificaciones en mi&nbsp;
-        <strong>
-          <a
-            href="https://www.linkedin.com/in/nicolas-david-espejo-bernal"
-            target="_blank"
-            rel="noreferrer"
-          >
-            LinkedIn.
-          </a>
-        </strong>
-      </p>
-    </div>
   </div>
 );
 
