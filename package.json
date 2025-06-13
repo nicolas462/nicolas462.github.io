@@ -2,7 +2,7 @@
   "name": "nicolas462.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nicolas462.github.io/nicolas462.github.io",
+  "homepage": "https://nicolas462.github.io",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
