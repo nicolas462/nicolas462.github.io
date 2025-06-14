@@ -6,7 +6,7 @@ const projectsData = {
   en: [
     {
       title: 'E-commerce stock synchronization',
-      description: ['An application developed to synchronize stock between Mercado Libre Colombia',
+      description: ['An application developed to synchronize stock between Mercado Libre Colombia ',
         'and Linio Colombia. Developed in NextJS using Glitch as server hosting and MySQL as database',
         ' using Railway Database services (currently working on migration to Spring Boot Java).'],
     },
