@@ -21,7 +21,7 @@ const projectsData = {
     },
     {
       title: "Whatsapp integration to poll students' satisfaction",
-      description: ["My graduation project! I did a research and found a problematic: the college did",
+      description: ["My graduation project! I did research and found a problematic: the college did",
         " not have enough information to measure the students' satisfaction along the classes. I developed",
         " a Python application using Flask and MySQL as database, to send a short three question poll after",
         " each class."],
