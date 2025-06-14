@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3a83334d.css",
-    "main.js": "/static/js/main.6eb632ef.js",
+    "main.js": "/static/js/main.55d5744f.js",
     "static/media/austin-distel-mpN7xjKQ_Ns-unspla.jpg": "/static/media/austin-distel-mpN7xjKQ_Ns-unspla.eb97b2a6385cba1a4c8e.jpg",
     "static/media/photo.JPG": "/static/media/photo.3009b2d4d4905575c5ce.JPG",
     "static/media/Developer_Associate.png": "/static/media/Developer_Associate.864ee77de38e771ee7a4.png",
@@ -12,10 +12,10 @@
     "static/media/spain.png": "/static/media/spain.260f7e8a51dac143c857.png",
     "index.html": "/index.html",
     "main.3a83334d.css.map": "/static/css/main.3a83334d.css.map",
-    "main.6eb632ef.js.map": "/static/js/main.6eb632ef.js.map"
+    "main.55d5744f.js.map": "/static/js/main.55d5744f.js.map"
   },
   "entrypoints": [
     "static/css/main.3a83334d.css",
-    "static/js/main.6eb632ef.js"
+    "static/js/main.55d5744f.js"
   ]
 }
