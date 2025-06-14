@@ -11,6 +11,11 @@ const projectsData = {
         ' using Railway Database services (currently working on migration to Spring Boot Java).'],
     },
     {
+      title: "ETL Script in Excel using VBA",
+      description: ["VBA scripts developed in Excel to extract information from other Excel sheets, transforming the ",
+        "data and loading it into a master Excel workbook for an e-commerce accounting system."],
+    },
+    {
       title: 'Portfolio Website',
       description: 'This single web application that you are looking at right now! A personal website built with React and Bootstrap.',
     },
@@ -28,6 +33,11 @@ const projectsData = {
       description: ['Una aplicación desarrollada para sincronizar el stock entre Mercado Libre Colombia y Linio',
         ' Colombia. Desarrollada en NextJS, utilizando Glitch como servidor y MySQL como base de datos, utilizando',
         ' los servicios de Railway Database (actualmente en proceso de migración a Spring Boot Java).'],
+    },
+    {
+      title: "ETL Script en Excel usando VBA",
+      description: ["Scripts de VBA desarrollados en Excel para extraer información de otras hojas de Excel, ",
+        "transformando la información y cargándola en un libro maestro de Excel para un sistema de contabilidad de comercio electrónico."],
     },
     {
       title: 'Portafolio Web',
