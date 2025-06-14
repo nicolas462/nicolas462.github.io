@@ -4,11 +4,13 @@ import './Skills.css';
 
 const skillsData = [
     ["English", 80],
-    ["Javascript", 70],
     ["Java", 80],
-    ["Python", 55],
+    ["Prompt Engineering", 80],
+    ["Amazon Web Services (AWS)", 70],
+    ["Javascript", 70],
     ["SQL", 70],
-    ["Bash", 55],
+    ["Python", 50],
+    ["Bash", 50],
     ["PHP", 40],
     ["C++", 40],
   ];
