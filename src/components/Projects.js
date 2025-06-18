@@ -7,7 +7,7 @@ const projectsData = {
     {
       title: 'E-commerce stock synchronization',
       description: ['An application developed to synchronize stock between Mercado Libre Colombia ',
-        'and Linio Colombia. Developed in NextJS using Glitch as server hosting and MySQL as database',
+        'and Linio Colombia. Developed in Express.js using Glitch as server hosting and MySQL as database',
         ' using Railway Database services (currently working on migration to Spring Boot Java).'],
     },
     {
@@ -31,7 +31,7 @@ const projectsData = {
     {
       title: 'Sincronización de stock de e-commerce',
       description: ['Una aplicación desarrollada para sincronizar el stock entre Mercado Libre Colombia y Linio',
-        ' Colombia. Desarrollada en NextJS, utilizando Glitch como servidor y MySQL como base de datos, utilizando',
+        ' Colombia. Desarrollada en Express.js, utilizando Glitch como servidor y MySQL como base de datos, utilizando',
         ' los servicios de Railway Database (actualmente en proceso de migración a Spring Boot Java).'],
     },
     {
